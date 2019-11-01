@@ -7,4 +7,4 @@ file is [rnn.py](https://github.com/chimstead/rnn-character-prediction/blob/mast
 
 * **Conor Himstead**
 
-See also the [RoboRosewater](https://twitter.com/RoboRosewater) twitter account that inspired this mimic, and [The Unreasonable Effectiveness of Recurrant Neural Networks], which introduced a lot of folks to the power of character-level prediction. 
+See also the [RoboRosewater](https://twitter.com/RoboRosewater) twitter account that inspired this mimic, and [The Unreasonable Effectiveness of Recurrant Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), which introduced a lot of folks to the power of character-level prediction. 
